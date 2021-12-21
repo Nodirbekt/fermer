@@ -1,0 +1,181 @@
+/*background: #1f1260;*/
+/*background: #1f1245;*/
+@font-face {
+	font-family:'Monserrat';
+	src:url(fonts/Montserrat-Light.ttf);
+}
+*{margin: ;
+padding: 0;}
+@media screen and (max-width:992px){
+.logo
+{
+		border-bottom: 2px solid #ff6a6a;
+}
+}
+@media screen and (min-width:992px){
+.logo:hover
+{
+		border-bottom: 2px solid #1f1260;
+}
+}
+
+body
+{
+	font-family: Monserrat;
+}
+a
+{
+	text-align: center;
+	border-bottom: 2px solid #1f1260;
+}
+a:hover
+{
+	background: #1f1245;
+	text-decoration: none;
+	border-bottom: 2px solid #ff6a6a;
+}
+.asosiy
+{
+	background: #fff;	
+	font-size: 12px;
+	border:;
+}
+.head
+{
+	background: #1f1260;	
+	line-height: 50px;
+}
+.logo
+{
+	font-size: 14px;
+	background: #1f1245;
+	text-transform: uppercase;
+}
+.logo:hover
+{
+	text-decoration: none;
+}
+.l1-text
+{
+	color: white;
+	font-weight: bold;
+}
+.l2-text
+{
+	color: #ff6a6a;
+	font-weight: bold;
+}
+.head-content
+{
+	background: #fff;
+}
+.jumbo
+{
+	border: none;
+	background: #fff;
+}
+.jumbo a
+{
+	text-transform: uppercase;
+	border: none;
+	background: #fff;
+}
+.jumbo a:hover
+{
+	background: #fff;
+	border: none;
+}
+.jumbo .lead
+{
+	text-transform: uppercase;
+}
+.jumbo .lead .col-8
+{
+	width: 100%;
+	color: #fff;
+	background: #007BFF;
+}
+.head-news
+{
+	background: #fff;
+	height: 200px;
+}
+.head-news a
+{
+	height: 220px;
+	overflow: hidden;
+	color: #4e4d4d;
+	padding-top: 20px;
+	text-align: left;
+	border:none;
+	border-radius: 10px;
+	transition-duration: 1s;
+}
+.head-news a:hover
+{
+	height: 360px;
+	overflow: visible;
+	transform: translateY(-40px);
+	color: #fff;
+	border: none;
+	z-index: 1;
+}
+.rasm
+{
+
+}
+.bo-text
+{
+	padding: 4px 0px 4px 0px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-top: 8px;
+}
+.head-sevices .sarlavha
+{
+	padding-top: 1000px;
+	line-height: 40px;
+}
+.head-services
+{
+	height: 200px;
+	background: #fff;
+}
+.head-services a
+{
+}
+.aga
+{
+	color: #007BFF; 
+}
+.aga:hover
+{
+	color: #1f1260;
+}
+.sarlavha
+{
+	font-size: 16px;
+	font-weight: bold;
+}
+.sarlavxa
+{
+	line-height: 70px;
+	font-size: 16px;
+	font-weight: bold;
+}
+@media screen and (max-width:992px) and (min-width: ){
+.logo
+{
+		border-bottom: 2px solid #ff6a6a;
+}
+}
+.foot
+{
+	line-height: 60px;
+	text-align: center;
+	background: #1f1260;
+}
+.regis
+{
+	padding-top: 30px;
+}
